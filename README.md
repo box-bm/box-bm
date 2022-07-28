@@ -5,7 +5,7 @@
 - 📫 You can contact me via email at brandong.manzog@gmail.com or search me in Twitter how [@BoxBMG](https://mobile.twitter.com/boxbmg).
 - 👨🏻‍💻 I work every day for practice my skills and my objective is going to be an important developer for the history and create a line of before and after of concept of technology.
 - 📖 I am looking for more knoweledge and practice more any language of programmations.
-- 💻 You can visit my github bussines account how [bmanzog](https://github.com/bmanzog) at Luminova Pharma Group.
+- 💻 This is my bussiness account too, see how I work.
 
 I am from Guatemala and this is my passion for my work.
 
