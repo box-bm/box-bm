@@ -9,4 +9,4 @@
 
 I am from Guatemala and this is my passion for my work.
 
-### You're welcome to see my profile and my activity on github.
+### Welcome to my github profile.
