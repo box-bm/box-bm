@@ -14,7 +14,7 @@ I'm a Full stack developer, autodidact learning 👨🏻‍🎓 and improving sk
 
 🤭 &nbsp; I love to draw and made my own art 🎨 and share in my instagram my art work with my friends.Sometimes, I share my knowladge in my blog writtern with Notion and teach to my friends to learn how to develop 🧑🏻‍💻.
 
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.
 
 ✉️ &nbsp;You can shoot me an email at <brandong.manzog@gmail.com>! I'll try to respond as soon as I can.
 
