@@ -1,4 +1,4 @@
-![Box-Dev Banner](https://www.brandonmanzo.dev/banner.jpg)
+![Box-Dev Banner](/banner.jpg)
 
 ## &nbsp;&nbsp;Hey there! I'm Brandon Manzo
 
