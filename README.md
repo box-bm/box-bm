@@ -52,6 +52,6 @@ I'm a Full stack developer, autodidact learning 👨🏻‍🎓 and improving sk
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/bmanzog/"><img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.instagram.com/bgmanzo/"><img src="https://img.shields.io/badge/-bgmanzo-405DE6?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/BoxBMG/"><img src="https://img.shields.io/badge/-@BoxBMG-00acee?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/bmanzog/"><img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://instagram.com/bgmanzo/"><img src="https://img.shields.io/badge/-Instagram-405DE6?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://x.com/BoxdevBM"><img src="https://img.shields.io/twitter/follow/BoxdevBM"/></a>
